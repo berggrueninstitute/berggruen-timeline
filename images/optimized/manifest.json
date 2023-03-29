@@ -1,0 +1,2041 @@
+{
+  "exports": [
+    {
+      "original": {
+        "name": "Berggruen_Logo_BLUE 2",
+        "fullName": "Berggruen_Logo_BLUE 2",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "",
+        "multiple": [
+          {
+            "name": "Berggruen_Logo_BLUE 2_thumbnail",
+            "preset": "thumbnail",
+            "width": 148,
+            "height": 45
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2011-10--ZhengBijian",
+        "fullName": "final_images/2011/2011-10--ZhengBijian",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2011",
+        "multiple": [
+          {
+            "name": "2011-10--ZhengBijian_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2011-10--ZhengBijian_normal",
+            "preset": "normal",
+            "width": 1000,
+            "height": 665,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2012-05--CCMtgMexicoCity",
+        "fullName": "final_images/2012/2012-05--CCMtgMexicoCity",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2012",
+        "multiple": [
+          {
+            "name": "2012-05--CCMtgMexicoCity_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 162
+          },
+          {
+            "name": "2012-05--CCMtgMexicoCity_normal",
+            "preset": "normal",
+            "width": 1162,
+            "height": 589,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2013-05--TownHallParis",
+        "fullName": "final_images/2013/2013-05--TownHallParis",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2013",
+        "multiple": [
+          {
+            "name": "2013-05--TownHallParis_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 196
+          },
+          {
+            "name": "2013-05--TownHallParis_normal",
+            "preset": "normal",
+            "width": 997,
+            "height": 610,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2011-10--CFEParis",
+        "fullName": "final_images/2011/2011-10--CFEParis",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2011",
+        "multiple": [
+          {
+            "name": "2011-10--CFEParis_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2011-10--CFEParis_normal",
+            "preset": "normal",
+            "width": 1000,
+            "height": 665,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2010-9--21stCCLaunched",
+        "fullName": "final_images/2010/2010-9--21stCCLaunched",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2010",
+        "multiple": [
+          {
+            "name": "2010-9--21stCCLaunched_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2010-9--21stCCLaunched_normal",
+            "preset": "normal",
+            "width": 1000,
+            "height": 665,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2011-10--AlGore",
+        "fullName": "final_images/2011/2011-10--AlGore",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2011",
+        "multiple": [
+          {
+            "name": "2011-10--AlGore_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2011-10--AlGore_normal",
+            "preset": "normal",
+            "width": 1000,
+            "height": 665,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2011-9--CFEFoundedBrussels",
+        "fullName": "final_images/2011/2011-9--CFEFoundedBrussels",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2011",
+        "multiple": [
+          {
+            "name": "2011-9--CFEFoundedBrussels_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2011-9--CFEFoundedBrussels_normal",
+            "preset": "normal",
+            "width": 1623,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2012-10--TownHallBerlin",
+        "fullName": "final_images/2012/2012-10--TownHallBerlin",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2012",
+        "multiple": [
+          {
+            "name": "2012-10--TownHallBerlin_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2012-10--TownHallBerlin_normal",
+            "preset": "normal",
+            "width": 1623,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2012-05--CFERome",
+        "fullName": "final_images/2012/2012-05--CFERome",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2012",
+        "multiple": [
+          {
+            "name": "2012-05--CFERome_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2012-05--CFERome_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2013-01--CCZurich",
+        "fullName": "final_images/2013/2013-01--CCZurich",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2013",
+        "multiple": [
+          {
+            "name": "2013-01--CCZurich_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2013-01--CCZurich_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2015-11--2ndUCC",
+        "fullName": "final_images/2015/2015-11--2ndUCC",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2015",
+        "multiple": [
+          {
+            "name": "2015-11--2ndUCC_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2015-11--2ndUCC_normal",
+            "preset": "normal",
+            "width": 905,
+            "height": 601,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2011-03--CCMeeting",
+        "fullName": "final_images/2011/2011-03--CCMeeting",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2011",
+        "multiple": [
+          {
+            "name": "2011-03--CCMeeting_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2011-03--CCMeeting_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2014-02--TownHallMadrid",
+        "fullName": "final_images/2014/2014-02--TownHallMadrid",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2014",
+        "multiple": [
+          {
+            "name": "2014-02--TownHallMadrid_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2014-02--TownHallMadrid_normal",
+            "preset": "normal",
+            "width": 1400,
+            "height": 933,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2011-11-BlueprintReport",
+        "fullName": "final_images/2011/2011-11-BlueprintReport",
+        "extension": ".jpeg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2011",
+        "multiple": [
+          {
+            "name": "2011-11-BlueprintReport_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 256
+          },
+          {
+            "name": "2011-11-BlueprintReport_normal",
+            "preset": "normal",
+            "width": 1351,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2014-09--JerryBrown",
+        "fullName": "final_images/2014/2014-09--JerryBrown",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2014",
+        "multiple": [
+          {
+            "name": "2014-09--JerryBrown_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2014-09--JerryBrown_normal",
+            "preset": "normal",
+            "width": 800,
+            "height": 533,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2010-9--BIFounded",
+        "fullName": "final_images/2010/2010-9--BIFounded",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2010",
+        "multiple": [
+          {
+            "name": "2010-9--BIFounded_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2010-9--BIFounded_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2015-03--FutureofWork",
+        "fullName": "final_images/2015/2015-03--FutureofWork",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2015",
+        "multiple": [
+          {
+            "name": "2015-03--FutureofWork_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 212
+          },
+          {
+            "name": "2015-03--FutureofWork_normal",
+            "preset": "normal",
+            "width": 1200,
+            "height": 794,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2012-11--IntelligentGovernance",
+        "fullName": "final_images/2012/2012-11--IntelligentGovernance",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2012",
+        "multiple": [
+          {
+            "name": "2012-11--IntelligentGovernance_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2012-11--IntelligentGovernance_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2013-11--UnderstandingChina",
+        "fullName": "final_images/2013/2013-11--UnderstandingChina",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2013",
+        "multiple": [
+          {
+            "name": "2013-11--UnderstandingChina_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 189
+          },
+          {
+            "name": "2013-11--UnderstandingChina_normal",
+            "preset": "normal",
+            "width": 1825,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2016-12--CCNewYork",
+        "fullName": "final_images/2016/2016-12--CCNewYork",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2016",
+        "multiple": [
+          {
+            "name": "2016-12--CCNewYork_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2016-12--CCNewYork_normal",
+            "preset": "normal",
+            "width": 1024,
+            "height": 683,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2016-12--CharlesTaylor",
+        "fullName": "final_images/2016/2016-12--CharlesTaylor",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2016",
+        "multiple": [
+          {
+            "name": "2016-12--CharlesTaylor_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2016-12--CharlesTaylor_normal",
+            "preset": "normal",
+            "width": 1400,
+            "height": 934,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2016-05--FiveAnniversary",
+        "fullName": "final_images/2016/2016-05--FiveAnniversary",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2016",
+        "multiple": [
+          {
+            "name": "2016-05--FiveAnniversary_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2016-05--FiveAnniversary_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2017-12--OnoraONeill",
+        "fullName": "final_images/2017/2017-12--OnoraONeill",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2017",
+        "multiple": [
+          {
+            "name": "2017-12--OnoraONeill_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2017-12--OnoraONeill_normal",
+            "preset": "normal",
+            "width": 1400,
+            "height": 932,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2017-10--ViewCalifornia",
+        "fullName": "final_images/2017/2017-10--ViewCalifornia",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2017",
+        "multiple": [
+          {
+            "name": "2017-10--ViewCalifornia_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2017-10--ViewCalifornia_normal",
+            "preset": "normal",
+            "width": 1400,
+            "height": 933,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2010-10--TLCLaunch",
+        "fullName": "final_images/2010/2010-10--TLCLaunch",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2010",
+        "multiple": [
+          {
+            "name": "2010-10--TLCLaunch_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2010-10--TLCLaunch_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2018-12--PekingLaunch",
+        "fullName": "final_images/2018/2018-12--PekingLaunch",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2018",
+        "multiple": [
+          {
+            "name": "2018-12--PekingLaunch_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 207
+          },
+          {
+            "name": "2018-12--PekingLaunch_normal",
+            "preset": "normal",
+            "width": 625,
+            "height": 405,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2017-08--ChinaCenter",
+        "fullName": "final_images/2017/2017-08--ChinaCenter",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2017",
+        "multiple": [
+          {
+            "name": "2017-08--ChinaCenter_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2017-08--ChinaCenter_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2018-12--MarthaNussbaum",
+        "fullName": "final_images/2018/2018-12--MarthaNussbaum",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2018",
+        "multiple": [
+          {
+            "name": "2018-12--MarthaNussbaum_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 229
+          },
+          {
+            "name": "2018-12--MarthaNussbaum_normal",
+            "preset": "normal",
+            "width": 1400,
+            "height": 1000,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2016-09--DemocracyforDigital",
+        "fullName": "final_images/2016/2016-09--DemocracyforDigital",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2016",
+        "multiple": [
+          {
+            "name": "2016-09--DemocracyforDigital_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2016-09--DemocracyforDigital_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2017-11--AIChinesePhilosophers",
+        "fullName": "final_images/2017/2017-11--AIChinesePhilosophers",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2017",
+        "multiple": [
+          {
+            "name": "2017-11--AIChinesePhilosophers_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 214
+          },
+          {
+            "name": "2017-11--AIChinesePhilosophers_normal",
+            "preset": "normal",
+            "width": 1618,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2015-2-LandCampus",
+        "fullName": "final_images/2015/2015-2-LandCampus",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2015",
+        "multiple": [
+          {
+            "name": "2015-2-LandCampus_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 204
+          },
+          {
+            "name": "2015-2-LandCampus_normal",
+            "preset": "normal",
+            "width": 1690,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2018-06--Tianxia",
+        "fullName": "final_images/2018/2018-06--Tianxia",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2018",
+        "multiple": [
+          {
+            "name": "2018-06--Tianxia_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 214
+          },
+          {
+            "name": "2018-06--Tianxia_normal",
+            "preset": "normal",
+            "width": 1618,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2017-12--CCNewYork",
+        "fullName": "final_images/2017/2017-12--CCNewYork",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2017",
+        "multiple": [
+          {
+            "name": "2017-12--CCNewYork_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2017-12--CCNewYork_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2018-5--ToftHLaunched",
+        "fullName": "final_images/2018/2018-5--ToftHLaunched",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2018",
+        "multiple": [
+          {
+            "name": "2018-5--ToftHLaunched_thumbnail",
+            "preset": "thumbnail",
+            "width": 213,
+            "height": 320
+          },
+          {
+            "name": "2018-5--ToftHLaunched_normal",
+            "preset": "normal",
+            "width": 719,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-02--EvolutionofHuman",
+        "fullName": "final_images/2019/2019-02--EvolutionofHuman",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-02--EvolutionofHuman_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 309
+          },
+          {
+            "name": "2019-02--EvolutionofHuman_normal",
+            "preset": "normal",
+            "width": 1119,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2018-07--DemocracyItaly",
+        "fullName": "final_images/2018/2018-07--DemocracyItaly",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2018",
+        "multiple": [
+          {
+            "name": "2018-07--DemocracyItaly_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2018-07--DemocracyItaly_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2018-9--ToftHPlacingatSites",
+        "fullName": "final_images/2018/2018-9--ToftHPlacingatSites",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2018",
+        "multiple": [
+          {
+            "name": "2018-9--ToftHPlacingatSites_thumbnail",
+            "preset": "thumbnail",
+            "width": 213,
+            "height": 320
+          },
+          {
+            "name": "2018-9--ToftHPlacingatSites_normal",
+            "preset": "normal",
+            "width": 720,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-05--PublicSquareMadrid",
+        "fullName": "final_images/2019/2019-05--PublicSquareMadrid",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-05--PublicSquareMadrid_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2019-05--PublicSquareMadrid_normal",
+            "preset": "normal",
+            "width": 1400,
+            "height": 933,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2018-12--3rdUCC",
+        "fullName": "final_images/2018/2018-12--3rdUCC",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2018",
+        "multiple": [
+          {
+            "name": "2018-12--3rdUCC_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2018-12--3rdUCC_normal",
+            "preset": "normal",
+            "width": 1623,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2017-12--NewOffice",
+        "fullName": "final_images/2017/2017-12--NewOffice",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2017",
+        "multiple": [
+          {
+            "name": "2017-12--NewOffice_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 240
+          },
+          {
+            "name": "2017-12--NewOffice_normal",
+            "preset": "normal",
+            "width": 1440,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-3--ChinesePhilosophers",
+        "fullName": "final_images/2019/2019-3--ChinesePhilosophers",
+        "extension": ".jpeg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-3--ChinesePhilosophers_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 159
+          },
+          {
+            "name": "2019-3--ChinesePhilosophers_normal",
+            "preset": "normal",
+            "width": 816,
+            "height": 405,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2017-12--LaunchofCCFellowProgram",
+        "fullName": "final_images/2017/2017-12--LaunchofCCFellowProgram",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2017",
+        "multiple": [
+          {
+            "name": "2017-12--LaunchofCCFellowProgram_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 240
+          },
+          {
+            "name": "2017-12--LaunchofCCFellowProgram_normal",
+            "preset": "normal",
+            "width": 1440,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2014-1-WPLaunch",
+        "fullName": "final_images/2014/2014-1-WPLaunch",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2014",
+        "multiple": [
+          {
+            "name": "2014-1-WPLaunch_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 247
+          },
+          {
+            "name": "2014-1-WPLaunch_normal",
+            "preset": "normal",
+            "width": 1398,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-04--RenovatingDemocracy",
+        "fullName": "final_images/2019/2019-04--RenovatingDemocracy",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-04--RenovatingDemocracy_thumbnail",
+            "preset": "thumbnail",
+            "width": 212,
+            "height": 320
+          },
+          {
+            "name": "2019-04--RenovatingDemocracy_normal",
+            "preset": "normal",
+            "width": 715,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-09--RoyalCollegeLondon",
+        "fullName": "final_images/2019/2019-09--RoyalCollegeLondon",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-09--RoyalCollegeLondon_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 240
+          },
+          {
+            "name": "2019-09--RoyalCollegeLondon_normal",
+            "preset": "normal",
+            "width": 1440,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2017-8--CIFAR",
+        "fullName": "final_images/2017/2017-8--CIFAR",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2017",
+        "multiple": [
+          {
+            "name": "2017-8--CIFAR_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 247
+          },
+          {
+            "name": "2017-8--CIFAR_normal",
+            "preset": "normal",
+            "width": 1398,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-07--WorkshopBellagio",
+        "fullName": "final_images/2019/2019-07--WorkshopBellagio",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-07--WorkshopBellagio_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 214
+          },
+          {
+            "name": "2019-07--WorkshopBellagio_normal",
+            "preset": "normal",
+            "width": 1618,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-12--CCNewYork",
+        "fullName": "final_images/2019/2019-12--CCNewYork",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-12--CCNewYork_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2019-12--CCNewYork_normal",
+            "preset": "normal",
+            "width": 1623,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-10--4thUCC",
+        "fullName": "final_images/2019/2019-10--4thUCC",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-10--4thUCC_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 240
+          },
+          {
+            "name": "2019-10--4thUCC_normal",
+            "preset": "normal",
+            "width": 1440,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-11-CollaborationTsinghua",
+        "fullName": "final_images/2020/2020-11-CollaborationTsinghua",
+        "extension": ".jpeg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-11-CollaborationTsinghua_thumbnail",
+            "preset": "thumbnail",
+            "width": 267,
+            "height": 320
+          },
+          {
+            "name": "2020-11-CollaborationTsinghua_normal",
+            "preset": "normal",
+            "width": 487,
+            "height": 583,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-11-CollaborationTsinghua_cropped",
+        "fullName": "final_images/2020/2020-11-CollaborationTsinghua_cropped",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-11-CollaborationTsinghua_cropped_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 153
+          },
+          {
+            "name": "2020-11-CollaborationTsinghua_cropped_normal",
+            "preset": "normal",
+            "width": 1185,
+            "height": 567,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-03--RenewingDemocracy",
+        "fullName": "final_images/2020/2020-03--RenewingDemocracy",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-03--RenewingDemocracy_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 209
+          },
+          {
+            "name": "2020-03--RenewingDemocracy_normal",
+            "preset": "normal",
+            "width": 1400,
+            "height": 915,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-10--USChina",
+        "fullName": "final_images/2019/2019-10--USChina",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-10--USChina_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 196
+          },
+          {
+            "name": "2019-10--USChina_normal",
+            "preset": "normal",
+            "width": 1190,
+            "height": 730,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-02--IntelligenceWisdom",
+        "fullName": "final_images/2020/2020-02--IntelligenceWisdom",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-02--IntelligenceWisdom_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 320
+          },
+          {
+            "name": "2020-02--IntelligenceWisdom_normal",
+            "preset": "normal",
+            "width": 800,
+            "height": 800,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-12--RBG",
+        "fullName": "final_images/2019/2019-12--RBG",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-12--RBG_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 219
+          },
+          {
+            "name": "2019-12--RBG_normal",
+            "preset": "normal",
+            "width": 1580,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-08--AINarratives",
+        "fullName": "final_images/2020/2020-08--AINarratives",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-08--AINarratives_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 194
+          },
+          {
+            "name": "2020-08--AINarratives_normal",
+            "preset": "normal",
+            "width": 1045,
+            "height": 634,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-06--Noema",
+        "fullName": "final_images/2020/2020-06--Noema",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-06--Noema_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 229
+          },
+          {
+            "name": "2020-06--Noema_normal",
+            "preset": "normal",
+            "width": 1512,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-5--VirusTeachings",
+        "fullName": "final_images/2020/2020-5--VirusTeachings",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-5--VirusTeachings_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 247
+          },
+          {
+            "name": "2020-5--VirusTeachings_normal",
+            "preset": "normal",
+            "width": 1398,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-3-PULaunch",
+        "fullName": "final_images/2019/2019-3-PULaunch",
+        "extension": ".jpeg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-3-PULaunch_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2019-3-PULaunch_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-8--CovidRamifications",
+        "fullName": "final_images/2020/2020-8--CovidRamifications",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-8--CovidRamifications_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 247
+          },
+          {
+            "name": "2020-8--CovidRamifications_normal",
+            "preset": "normal",
+            "width": 1398,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-7--GlobalThinkersSeries",
+        "fullName": "final_images/2020/2020-7--GlobalThinkersSeries",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-7--GlobalThinkersSeries_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 247
+          },
+          {
+            "name": "2020-7--GlobalThinkersSeries_normal",
+            "preset": "normal",
+            "width": 1398,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-4--COVIDSignatures",
+        "fullName": "final_images/2020/2020-4--COVIDSignatures",
+        "extension": ".jpeg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-4--COVIDSignatures_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 214
+          },
+          {
+            "name": "2020-4--COVIDSignatures_normal",
+            "preset": "normal",
+            "width": 1618,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-12--BerggruenGovernance",
+        "fullName": "final_images/2019/2019-12--BerggruenGovernance",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-12--BerggruenGovernance_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 191
+          },
+          {
+            "name": "2019-12--BerggruenGovernance_normal",
+            "preset": "normal",
+            "width": 1364,
+            "height": 816,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-12--PaulFarmer",
+        "fullName": "final_images/2020/2020-12--PaulFarmer",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-12--PaulFarmer_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2020-12--PaulFarmer_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-10--RuiLaunch",
+        "fullName": "final_images/2020/2020-10--RuiLaunch",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-10--RuiLaunch_thumbnail",
+            "preset": "thumbnail",
+            "width": 226,
+            "height": 320
+          },
+          {
+            "name": "2020-10--RuiLaunch_normal",
+            "preset": "normal",
+            "width": 761,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-02--UncannyValley",
+        "fullName": "final_images/2020/2020-02--UncannyValley",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-02--UncannyValley_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 320
+          },
+          {
+            "name": "2020-02--UncannyValley_normal",
+            "preset": "normal",
+            "width": 1080,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-7--City Diplomacy",
+        "fullName": "final_images/2020/2020-7--City Diplomacy",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-7--City Diplomacy_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2020-7--City Diplomacy_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-5--NancyPelosi",
+        "fullName": "final_images/2020/2020-5--NancyPelosi",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "jpeg",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-5--NancyPelosi_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 213
+          },
+          {
+            "name": "2020-5--NancyPelosi_normal",
+            "preset": "normal",
+            "width": 1620,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2015-09--FellowLaunch",
+        "fullName": "final_images/2015/2015-09--FellowLaunch",
+        "extension": ".jpg"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2015",
+        "multiple": [
+          {
+            "name": "2015-09--FellowLaunch_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 188
+          },
+          {
+            "name": "2015-09--FellowLaunch_normal",
+            "preset": "normal",
+            "width": 1795,
+            "height": 1054,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2019-1--LaunchofCapitalismProgram",
+        "fullName": "final_images/2019/2019-1--LaunchofCapitalismProgram",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2019",
+        "multiple": [
+          {
+            "name": "2019-1--LaunchofCapitalismProgram_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 145
+          },
+          {
+            "name": "2019-1--LaunchofCapitalismProgram_normal",
+            "preset": "normal",
+            "width": 1920,
+            "height": 873,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2020-02--Iceberg",
+        "fullName": "final_images/2020/2020-02--Iceberg",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2020",
+        "multiple": [
+          {
+            "name": "2020-02--Iceberg_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 212
+          },
+          {
+            "name": "2020-02--Iceberg_normal",
+            "preset": "normal",
+            "width": 1632,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    },
+    {
+      "original": {
+        "name": "2017-10--MovetoWaPo",
+        "fullName": "final_images/2017/2017-10--MovetoWaPo",
+        "extension": ".png"
+      },
+      "export": {
+        "format": "png",
+        "fallback": true,
+        "webp": true,
+        "relativeDir": "final_images/2017",
+        "multiple": [
+          {
+            "name": "2017-10--MovetoWaPo_thumbnail",
+            "preset": "thumbnail",
+            "width": 320,
+            "height": 247
+          },
+          {
+            "name": "2017-10--MovetoWaPo_normal",
+            "preset": "normal",
+            "width": 1398,
+            "height": 1080,
+            "default": true
+          }
+        ]
+      }
+    }
+  ]
+}
